@@ -1,0 +1,70 @@
+{
+    "footable": {
+        "normal": "footable_normal_ce78ada6e92c6cb0bee02ab007941a30"
+    },
+    "dropify": {
+        "normal": "dropify_normal_af35763b2e3963dcb7b979b30ad37a06"
+    },
+    "dripicons-v2": {
+        "normal": "dripicons_v2_normal_3f9b31c815ab89d460c0da59c6840b8c"
+    },
+    "material design icons": {
+        "normal": "material_design_icons_normal_c7db415475f7ac412fbb467ca9023709"
+    },
+    "feather": {
+        "normal": "feather_normal_168470cb9c2d1e0e74d872f5eff75841"
+    },
+    "themify": {
+        "normal": "themify_normal_515c531dfd1eea59252ac9426e5fded8"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_b65a2d82a947d1e00934ee33b451e595"
+    },
+    "font awesome 5 free": {
+        "normal": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/font_awesome_5_free_normal_57b7a35a83c846d6e2703c92acd2fcd4",
+        "900": "font_awesome_5_free_900_0ccbbae731a4bdbdc39a51896e1e0151"
+    },
+    "simple-line-icons": {
+        "normal": "simple_line_icons_normal_c4514d028d2422c0be477e16f3972b9a"
+    },
+    "weathericons": {
+        "normal": "weathericons_normal_5e8eea17474796c3033dfaf0141c0023"
+    },
+    "poppins": {
+        "100_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_100_italic_862c89b3f4edd4655435ab7ca47bf10b",
+        "200_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_200_italic_8bb47f72cf21c22a52883c46f3f26365",
+        "300_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_300_italic_7b4f1cfe65e96a5a4c603a5cf1d6f896",
+        "italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_italic_1ad90e53438b9573bebb0fe37dfde87c",
+        "500_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_500_italic_0b33503413d15e2b0c2db57c393906ed",
+        "600_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_600_italic_bd7beee89dec36870459c02bb03bc74e",
+        "bold_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_bold_italic_812d90b721ed99ea43d47c5ee855951d",
+        "900_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_900_italic_407c779dbdf427bc8b019a3cdb89a49e",
+        "800_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_800_italic_9deb5476c71fd073291a14e4d821e787",
+        "200": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_200_0eec96f30d9c1b73637ec638fbe92403",
+        "300": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_300_4a08cccbc2911e3077321a0298f4e093",
+        "normal": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_normal_442dffd12abdf0df26c14405d3f49bfa",
+        "100": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_100_9516b5e61c50e1848d59fd3ff2402f66",
+        "500": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_500_6a6f5e017da7e062546fd806ab3b249c",
+        "600": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_600_272b14b77a21dc5827f4570eff556c8f",
+        "bold": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_bold_2d1c4b360c3ac297e98fc2cfd808a2cc",
+        "800": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/poppins_800_313634739c16b7523b76f32223648e5b",
+        "900": "poppins_900_b9e01d75bf95631c5ecf3bcf2a96e6b3"
+    },
+    "roboto": {
+        "100_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_100_italic_71d4fad1ca0f22d70d8be7cc40bb76ab",
+        "300_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_300_italic_3d719d848a0b6b3f4f0918985ffd2db7",
+        "italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_italic_e3ef71c7d9eeac822fc7d92d4fc7ff6e",
+        "500_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_500_italic_e69cd621b57d68ed0b47f09bd22a3d7e",
+        "bold_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_bold_italic_76e4a6bfadf19fea9990a367967a3f96",
+        "900_italic": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_900_italic_7ad2e464d2e86e53eea8619bf6734bbe",
+        "100": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_100_1c4e32da7e6c8539dd3a51af38f413be",
+        "300": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_300_32acfcb296f555e063ebba2be7db9e2f",
+        "normal": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_normal_7bc701b343c10631f60048716b96e4f7",
+        "500": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_500_5774d6fb05eba3d096525f821dbe4137",
+        "bold": "E:\\Web Development\\xamppv3\\htdocs\\seoproject\\storage\\fonts\/roboto_bold_8db5cb5d0586c1e891426d13097b1d04",
+        "900": "roboto_900_7bf41cacaff90e7097ddd49fb9296601"
+    },
+    "summernote": {
+        "normal": "summernote_normal_c2fcad0f3e8d0362b328bb8b70551f27"
+    }
+}
